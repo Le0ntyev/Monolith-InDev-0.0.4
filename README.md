@@ -1,21 +1,18 @@
-Open Terraria Project
+Monolith InDev3
 =========
-Open Terraria Project is...
-Try to make something like Terraria, but in terminal, c++, and using only cross-platform libraries.
+Monolith is a Terraria-like game, made for windows (recomended windows 10), written on PascalABC.NET, but alredy going to C# or Unity.
 
-### Externals
- * Ncurses 6.3 static library with "-fPIC" CFLAGS and CXXFLAGS
+### OS and other
+Windows. Recomended windows 10.
+RAM: Even potato can run it.
 
-### Dependencies
+### Code
+Code is in file
+```MonolithInDev4.pas```
 
-#### Required
- *
- * libncurses (>= 6.0)
+### Play
+To test the game on windows run
+```MonolithInDev4-Compilated.exe```
 
-### Build instructions
-Start make without any target for configure and build Open Terraria in directory:
-```make```
-
-### Installation
-To install the compiled binaries and required data, execute:
-```sudo make install```
+###Next repositorie
+Next repositorie will be (i hope so) about version SuperInDev1.0, on Unity or C#.
