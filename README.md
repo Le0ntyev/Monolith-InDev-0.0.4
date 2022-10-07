@@ -14,7 +14,7 @@ Code is in file
 To test the game on windows run
 ```MonolithInDev4-Compilated.exe```
 
-### Other Terraria-like projekt
+### Other Terraria-like project
 [Other Terraria-like cross-platform project by quantumde](https://github.com/quantumde/Open-Terraria-Project)
 
 ### Next repositorie
