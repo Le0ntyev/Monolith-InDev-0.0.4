@@ -1,6 +1,6 @@
 Monolith InDev4
 =========
-Monolith is a Terraria-like game, made for windows (recomended windows 10), written on PascalABC.NET, but alredy going to C# or Unity.
+Monolith is a Terraria-like game made by PLT team, for windows, written on PascalABC.NET but alredy starts to go to C# or Unity. InDev4 is the last version for PascalABC.NET.
 
 ### OS and other
 Windows. Recomended windows 10.
