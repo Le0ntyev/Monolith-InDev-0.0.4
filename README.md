@@ -6,11 +6,12 @@ Monolith is a Terraria-like game made by PLT team, for windows, written on Pasca
 Windows. Recomended windows 10.
 RAM: Even potato can run it.
 
-### Code
+### Files
+**All files are in dev git!**
+
 Code is in file
 ```MonolithInDev4.pas```
 
-### Play
 To test the game on windows run
 ```MonolithInDev4-Compilated.exe```
 
