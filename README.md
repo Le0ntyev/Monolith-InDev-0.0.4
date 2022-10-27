@@ -8,7 +8,7 @@ Windows. Recomended Windows 10.
 RAM: Even potato can run it.
 
 ### Files
-    **All files are in dev git!**
+    All files are in dev git!
 
 Code is in file
 ```MonolithInDev4.pas```
